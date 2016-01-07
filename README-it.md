@@ -182,7 +182,7 @@ Note:
 
 - Per una ricerca più generale, all'interno di codice sorgente o file di dati (o comunque qualcosa di più avanzato di `grep -r`), usa [`ag`](https://github.com/ggreer/the_silver_searcher).
 
-- Per converire del codice HTML in un testo: `lynx -dump -stdin`
+- Per convertire del codice HTML in un testo: `lynx -dump -stdin`
 
 - Per Markdown, HTML ed ogni tipo di conversione di documenti, prova [`pandoc`](http://pandoc.org/).
 
